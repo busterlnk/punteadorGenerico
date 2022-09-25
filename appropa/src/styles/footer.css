@@ -1,0 +1,25 @@
+.footer{
+    height: auto;
+    display: flex;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+}
+
+/* .footer div{
+    position: fixed;
+} */
+
+.footer ul{
+    display: flex;
+    align-self: flex-end;
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    
+  }
+  
+  .footer ul li{
+    list-style-type: none;
+    
+  }
